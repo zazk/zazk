@@ -8,14 +8,13 @@ Hi, I'm JD a Senior Full Stack Developer. I live in Buenos Aires, Argentina. �
 4. Always search for a better solution.
 5. Enjoy!
 
-## Get in touch
-- Twitter: https://twitter.com/zazk
-- LinkedIn: https://www.linkedin.com/in/juandedios
-- IG: https://instagram.com/graffico
-
 ![Juan de Dios' GitHub Stats](https://github-readme-stats.vercel.app/api?username=zazk&show_icons=true&hide_border=true)
 
-## My values
+## About me
+🌱 I’m currently learning Rust.
+👯 I’m looking to collaborate on Javascript and Rust
+💬 Ask me about React, Angular, Javascript, Swift, DevOps
+📫 How to reach me: https://instagram.com/graffico
 🍏 Beginner's mindset and curiosity<br>
 🚀 DevOps passionate<br>
 🙌 Shared norms<br>
