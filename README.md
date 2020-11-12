@@ -1,7 +1,13 @@
 # Enrique Juan de Dios
 Hi, I'm JD a Senior Full Stack Developer. I live in Buenos Aires, Argentina. 🙌 I'm a huge nerd/geek, Starcraft Broodwar player, and aspiring writer.
 
-## How to solve issues
+## 📫 How to reach me: 
+Email me, or Tweet me at [Twitter/zazk](https://twitter.com/zazk) for quick response.
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/zazk?label=Follow&style=social)](https://twitter.com/zazk)
+
+
+## 👨🏾‍💻 How I solve issues
 1. Analyze the problem
 2. Break the one big problem into smaller sub-problems
 3. Solve them one by one
