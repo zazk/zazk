@@ -1,6 +1,8 @@
 # Enrique Juan de Dios
 Hi, I'm JD a Senior Full Stack Developer. I live in Buenos Aires, Argentina. 🙌 I'm a huge nerd/geek, Starcraft Broodwar player, and aspiring writer.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&margin-w=10&rank=SECRET,S,SS,SSS)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📫 How to reach me: 
 Email me, or Tweet me at [Twitter/zazk](https://twitter.com/zazk) for quick response.
 
