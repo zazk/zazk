@@ -1,5 +1,5 @@
 # Enrique Juan de Dios
-Hi, I'm JD a Senior Full Stack Developer. I live in Buenos Aires, Argentina. 🙌 I'm a huge nerd/geek, Starcraft Broodwar player, and aspiring writer.
+Hi, I'm JD a Software Developer with 15+ years of hands-on experience on Software Solutions. I live in Buenos Aires, Argentina. 🙌 I'm a huge nerd/geek, Starcraft Broodwar player, and aspiring writer.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&margin-w=10&rank=SECRET,S,SS,SSS)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -21,7 +21,7 @@ Email me, or Tweet me at [Twitter/zazk](https://twitter.com/zazk) for quick resp
 ## About me
 🌱 I’m currently learning Rust.<br>
 👯 I’m looking to collaborate on Javascript and Rust<br>
-💬 Ask me about React, Angular, Javascript, Swift, DevOps<br>
+💬 Ask me about AWS Services, React, Angular, TS, Terraform, Java, Swift, DevOps<br>
 📫 How to reach me: https://instagram.com/graffico<br>
 🍏 Beginner's mindset and curiosity<br>
 🚀 DevOps passionate<br>
